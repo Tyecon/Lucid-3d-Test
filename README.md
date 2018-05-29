@@ -1,3 +1,5 @@
 # Lucid-3d-Test
 Game Engine Toy Project
 2011-2013
+
+I learned a lot about programming from this project including multithreading, design patterns, data structures, object oriented, entity-hierarchy, and event driving programming, user interfacing, OpenGL, video card features, data buffering, resource/memory management, file parsing, and differences between languages such as Java, C++, and C#. In order to learn programming on my own beyond the Java programming classes I attended in high school and college, I started working on a video game engine. I wanted to make a suite of user friendly tools that my friends without programming knowledge but more creativity than myself could use to create video games together. I decided to use Java for the project as that was what I was most familiar with. As I learned more I started the project all over again many times because I knew I could design it better. I had too much difficulty trying to make a multiple document interface with a 3D context so I dropped the project to wait for technology to evolve (Especially WebGL). 
